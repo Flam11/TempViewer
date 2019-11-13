@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\temp_radar\\src\\App.js"
+            "program": "${workspaceFolder}\\temp_radar\\src\\App.jsx"
         }
     ]
 }
